@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1067136083727",
+    "project_id": "note-app-943e2",
+    "storage_bucket": "note-app-943e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067136083727:android:e72c3d1f7c9963ab79007a",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067136083727-44nnqjq4asu6i0t0jabb259kk3siiool.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DsRt7rXMDbIPVfI9Cx0WdsbDI6o0wQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067136083727-44nnqjq4asu6i0t0jabb259kk3siiool.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067136083727-1j4qld6e4o206n4m4mion5jhbsb20937.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067136083727:android:46bc6f6c22f11b3d79007a",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067136083727-44nnqjq4asu6i0t0jabb259kk3siiool.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DsRt7rXMDbIPVfI9Cx0WdsbDI6o0wQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067136083727-44nnqjq4asu6i0t0jabb259kk3siiool.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067136083727-1j4qld6e4o206n4m4mion5jhbsb20937.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067136083727:android:8f5882047da0a80579007a",
+        "android_client_info": {
+          "package_name": "com.example.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067136083727-44nnqjq4asu6i0t0jabb259kk3siiool.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DsRt7rXMDbIPVfI9Cx0WdsbDI6o0wQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067136083727-44nnqjq4asu6i0t0jabb259kk3siiool.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067136083727-1j4qld6e4o206n4m4mion5jhbsb20937.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
