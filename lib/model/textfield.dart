@@ -6,8 +6,10 @@ class MyTextField extends StatelessWidget {
     required this.textFieldIcon,
     required this.fieldName,
     required this.onSaved,
+    this.obsecure = false,
   });
 
+  bool? obsecure;
   Function(String?)? onSaved;
   Icon? textFieldIcon;
   String? fieldName;
@@ -16,6 +18,7 @@ class MyTextField extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 8),
       child: TextFormField(
+        obscureText: obsecure!,
         onChanged: onSaved,
         validator: (value) {
           if (value!.length > 100) {
